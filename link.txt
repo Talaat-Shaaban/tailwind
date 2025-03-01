@@ -1,0 +1,5 @@
+https://v3.tailwindcss.com/docs/gradient-color-stops
+
+// v4
+https://tailwindcss.com/docs/white-space 
+https://nourhomsi.net/tailwind/
